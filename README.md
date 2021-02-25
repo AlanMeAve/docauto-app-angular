@@ -1,1 +1,0 @@
-# docauto-app-angular
